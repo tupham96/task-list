@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # task-list
 
 > A Vue.js project
@@ -76,4 +75,3 @@ mutation {
   }
 }
 ```
->>>>>>> a8e19c5b238aa05fbc089e83a38cfa29114ef911
